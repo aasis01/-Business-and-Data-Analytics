@@ -1,0 +1,4 @@
+﻿Application of Data Analytics for the betterment of IITK
+* Professors can use it to calculate the mean, mode, and standard deviation, give the grades better and keep track of how students perform.
+* We can use data analytics to analyze the previous year's scores and grades of students in a particular course. The juniors can easily access this statistical data and see which courses and electives to opt for. 
+* Data analytics can also be used in the students' gymkhana to maintain a track of the budget, bills, and events of other committees and clubs
